@@ -3,6 +3,7 @@
   "compilerOptions": {
     "removeComments": true
   },
+  //GLOB
   "include": [
     "./**/*"
   ]

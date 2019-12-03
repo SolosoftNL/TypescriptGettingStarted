@@ -9,8 +9,8 @@
   "author": "Brice Wilson",
   "license": "ISC",
   "devDependencies": {
-    "ts-loader": "^6.0.4",
-    "typescript": "^3.5.3",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.2",
     "webpack": "4.38.0",
     "webpack-cli": "3.3.6",
     "webpack-dev-server": "3.7.2"
