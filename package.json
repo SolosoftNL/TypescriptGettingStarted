@@ -6,7 +6,7 @@
   "scripts": {
     "start": "webpack-dev-server"
   },
-  "author": "Brice Wilson",
+  "author": "Ronald Wiedijk",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^6.2.1",
